@@ -1,0 +1,72 @@
+[
+  {
+    "id": "p1",
+    "nombre": "Camiseta Básica",
+    "precio": 19.99,
+    "stock": 15,
+    "imagen": "img/camiseta_basica.png"
+  },
+  {
+    "id": "p2",
+    "nombre": "Gorra Clásica",
+    "precio": 12.5,
+    "stock": 25,
+    "imagen": "img/gorra_clasica.png"
+  },
+  {
+    "id": "p3",
+    "nombre": "Chaqueta de Cuero",
+    "precio": 89.99,
+    "stock": 5,
+    "imagen": "img/chaqueta_cuero.png"
+  },
+  {
+    "id": "p4",
+    "nombre": "Pantalón Jeans",
+    "precio": 39.99,
+    "stock": 12,
+    "imagen": "img/pantalon_jeans.png"
+  },
+  {
+    "id": "p5",
+    "nombre": "Sudadera Hoodie",
+    "precio": 34.99,
+    "stock": 10,
+    "imagen": "img/sudadera_hoodie.png"
+  },
+  {
+    "id": "p6",
+    "nombre": "Zapatos Deportivos",
+    "precio": 59.99,
+    "stock": 8,
+    "imagen": "img/zapatos_deportivos.png"
+  },
+  {
+    "id": "p7",
+    "nombre": "Reloj Digital",
+    "precio": 25.0,
+    "stock": 20,
+    "imagen": "img/reloj_digital.png"
+  },
+  {
+    "id": "p8",
+    "nombre": "Lentes de Sol",
+    "precio": 15.99,
+    "stock": 30,
+    "imagen": "img/lentes_de_sol.png"
+  },
+  {
+    "id": "p9",
+    "nombre": "Bufanda Invierno",
+    "precio": 14.5,
+    "stock": 18,
+    "imagen": "img/bufanda.png"
+  },
+  {
+    "id": "p10",
+    "nombre": "Toiletry Bag",
+    "precio": 9.99,
+    "stock": 40,
+    "imagen": "img/toiletri_bag.png"
+  }
+]
